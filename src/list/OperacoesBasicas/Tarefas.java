@@ -4,7 +4,7 @@ public class Tarefas {
     // atributo
     private String descricao;
 
-    // construtor
+    // construtor serve pra objetos sejam criados corretamente
     public Tarefas(String descricao) {
         this.descricao = descricao;
     }
